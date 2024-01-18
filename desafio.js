@@ -13,6 +13,6 @@ class hero{
     }
 
 }
-//  herí do onmyoji Arena
+//  herói do onmyoji Arena
 const hero1 = new hero("Kise", "30", "monge", "artes maciais")
 hero1.atacar()
